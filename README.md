@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sirweez
-- 👀 I’m interested in ... Inormation Technology      
+- 👀 I’m interested in ... Information Technology      
 - 🌱 I’m currently learning ... Cloud Computing
 - 💞️ I’m looking to collaborate on ... Big Database management proects
 - 📫 How to reach me ... Coding
